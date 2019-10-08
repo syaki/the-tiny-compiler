@@ -1,0 +1,12 @@
+{
+  "name": "the-tiny-compiler",
+  "version": "0.1.0",
+  "description": "A super tiny compiler by js",
+  "main": "index.js",
+  "keywords": [
+    "compiler",
+    "javascript"
+  ],
+  "author": "syaki <syaki07@outlook.com>",
+  "license": "MIT"
+}
